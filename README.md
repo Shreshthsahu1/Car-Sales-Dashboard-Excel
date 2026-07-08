@@ -1,6 +1,6 @@
 # 🚗 Car Sales Analytics Dashboard (Excel)
 
-![Dashboard](Dashboard.png)
+![Dashboard](image.png)
 
 ## 📌 Project Overview
 
